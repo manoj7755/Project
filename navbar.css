@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 00;
+    box-sizing: border-box;
+
+}
+nav{
+    height: 7rem ;
+    background-color: #4834d4;
+    box-shadow: 0 6px 4px rgba(196, 63, 63, 0.4);
+}
+nav ul{
+    display: flex;
+    justify-content: right;
+   position: relative;
+ 
+    top: 50%;
+    -ms-transform: translateY(-50%);
+  transform: translateY(-50%);;
+  
+}
+nav ul li{
+    color: aliceblue;
+   
+    list-style: none;
+}
+nav ul li a{
+    color: aliceblue;
+    text-decoration: none;
+    padding: 1rem;
+    font-size: x-large;
+    
+   
+   
+}
