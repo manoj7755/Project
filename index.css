@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.banner img{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto;
+    height:37rem;
+    width: 100%;
+}
